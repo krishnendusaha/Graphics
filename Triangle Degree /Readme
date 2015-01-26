@@ -1,0 +1,15 @@
+Run  the code 
+$gcc final.c -o final
+$./final  teapot.obj  
+to get coloured file of teapot.obj
+
+
+Note :
+1)Vertex  degree  is the number of triangle in which the vertex  is present 
+as no of edges incident on a vertex is equal to no. of triangle adjacent to it.
+
+2)Meshlab:
+To view the coloured files in Meshlab first it would appear colourless 
+Goto  Render > colour >per face to get colour 
+
+3)coloured files contains coloured obj files for ready reference .
