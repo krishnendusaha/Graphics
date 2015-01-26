@@ -1,0 +1,6 @@
+<svg height="1000" width="1000">
+<rect width="1000" height="1000" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)" />
+<polygon points="591.846130,344.331604 409.596436,265.934723 710.125000,458.202698 826.242310,490.066650" style="fill:rgb(138,8,34);stroke:black;stroke-width:1" />
+<polygon points="710.125000,458.202698 826.242310,490.066650 670.177490,743.387817 507.416687,807.189819" style="fill:rgb(255,128,0);stroke:black;stroke-width:1" />
+<polygon points="255.798706,587.043091 409.596436,265.934723 710.125000,458.202698 507.416687,807.189819" style="fill:rgb(41,204,255);stroke:black;stroke-width:1" />
+</svg>

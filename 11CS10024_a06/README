@@ -1,0 +1,19 @@
+Part a Algo:
+1.For all the vertices  the adjacent faces are stored.
+2.From that information for each face the adjacent faces (3)  are found out.
+3.At first all the faces are given colour =-1.
+4.Then for each face the colour is decided  from the adjacent faces colours (minimum possible out of 0,1,2 ) and assigned to the current face.
+
+Compile :
+
+ $gcc a06_a.c
+ $./a.out  apple.obj   (or  mug.obj etc)
+
+
+Part b:
+
+Compile :
+ $ g++ a06_b.c  -lglut -lGL -lGLU -lX11 -lXmu -lXi -lm -w
+ $ ./a.out apple_colour.obj  4      (4 is the field of view angle )
+ $ ./a.out mug_colour.obj    4 
+ $ ./a.out teapot.obj   100    (for teapot a bigger field of view is required )

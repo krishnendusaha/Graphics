@@ -1,0 +1,22 @@
+1.Compile the "11CS10024-a03a.c" 
+  $gcc 11CS10024-ao3a.c -lm  (to link the math headers )
+  
+2."11CS10024-a03a.svg"  is made with the following Inputs
+  :Enter the coordinates of Centre of the cube: 1 2 -20
+   Enter the coordinates of Camera : 4 3 10
+   Enter  the rotaton angles:-1 -2 -4
+
+3.To run the 2nd part Run the make file and give the input from      file  "a.txt"
+    $make
+4. Wait for a few minutes to get the animation "11CS10024-a03b.gif"
+5. You may change the input parameters in the a.txt.
+   It takes input as 
+   Enter the coordinates of Centre of the cube: 
+   Enter the coordinates of Camera : 
+   Enter  the rotaton angles:
+
+6.Algo:>out of two parallely opposite planes in the only one plane  maybe seen at any particular moment
+       >finding the distance from the viewer position to the centre of each  face  
+       >the face with less distance from viewer may possibly be seen out of those two parallely opposite faces 
+       >Now those three selected faces out of the six are printed in decending order of distances  
+

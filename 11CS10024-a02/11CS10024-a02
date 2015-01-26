@@ -1,0 +1,24 @@
+
+1. A sample run of 11CS10024-a02a.c  with the following parameters 
+Enter the coordinates of Centre of the cube: 0 0 -20
+
+Enter the coordinates of Camera : 0 0 10
+
+Enter  the rotaton angles:1 1 1
+
+
+gives the 11CS10024-a02a.svg
+
+
+2.In the animation  total 300 frames will be taken .To change the number of steps  change #define STEPS
+  to convert  the frames to animation 
+  $ convert -delay 5 *.svg  11CS10024-a02b.gif
+
+
+
+
+
+
+
+
+

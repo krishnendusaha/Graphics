@@ -1,0 +1,42 @@
+<svg height="1000" width="1000">
+<rect width="1000" height="1000" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)" />
+<polygon points="709.566223,435.995239 789.457886,443.948608 527.062256,330.968597 366.412018,284.692108" style="fill:rgb(138,8,34);stroke:black;stroke-width:1" />
+<defs>
+<linearGradient id="grad1" x1="81.115128%" y1="-1.471149%" x2="37.974663%" y2="-0.449955%">
+ <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0.5" />
+ <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0.5" />
+ </linearGradient>
+<linearGradient id="grad2" x1="100.000000%" y1="-1.548481%" x2="0.000000%" y2="-0.000000%">
+ <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0.5" />
+ <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0.5" />
+ </linearGradient>
+</defs>
+<polygon points="709.566223,435.995239 789.457886,443.948608 527.062256,330.968597 366.412018,284.692108" fill="url(#grad1)" />
+<polygon points="709.566223,435.995239 789.457886,443.948608 527.062256,330.968597 366.412018,284.692108" fill="url(#grad2)" />
+<polygon points="664.192383,715.572449 789.457886,443.948608 709.566223,435.995239 545.656860,807.823059" style="fill:rgb(255,128,0);stroke:black;stroke-width:1" />
+<defs>
+<linearGradient id="grad1" x1="70.389618%" y1="-4.189531%" x2="81.115128%" y2="-1.471149%">
+ <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0.5" />
+ <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0.5" />
+ </linearGradient>
+<linearGradient id="grad2" x1="100.000000%" y1="-1.548481%" x2="42.370071%" y2="-5.086501%">
+ <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0.5" />
+ <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0.5" />
+ </linearGradient>
+</defs>
+<polygon points="664.192383,715.572449 789.457886,443.948608 709.566223,435.995239 545.656860,807.823059" fill="url(#grad1)" />
+<polygon points="664.192383,715.572449 789.457886,443.948608 709.566223,435.995239 545.656860,807.823059" fill="url(#grad2)" />
+<polygon points="545.656860,807.823059 709.566223,435.995239 366.412018,284.692108 250.000000,622.566528" style="fill:rgb(41,204,255);stroke:black;stroke-width:1" />
+<defs>
+<linearGradient id="grad1" x1="54.806290%" y1="-5.086501%" x2="21.579445%" y2="-0.000000%">
+ <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0.5" />
+ <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0.5" />
+ </linearGradient>
+<linearGradient id="grad2" x1="85.190376%" y1="-1.471149%" x2="0.000000%" y2="-3.285217%">
+ <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0.5" />
+ <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:0.5" />
+ </linearGradient>
+</defs>
+<polygon points="545.656860,807.823059 709.566223,435.995239 366.412018,284.692108 250.000000,622.566528" fill="url(#grad1)" />
+<polygon points="545.656860,807.823059 709.566223,435.995239 366.412018,284.692108 250.000000,622.566528" fill="url(#grad2)" />
+</svg>

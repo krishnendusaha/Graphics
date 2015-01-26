@@ -1,0 +1,23 @@
+<svg height="1000" width="1000">
+<rect width="1000" height="1000" style="fill:rgb(255,255,255);stroke-width:3;stroke:rgb(0,0,0)" />
+ <line x1="332.988586" y1="516.275513" x2="603.140137" y2="516.275513" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="603.140137" y1="516.275513" x2="639.760498" y2="733.467407" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="639.760498" y1="733.467407" x2="296.368195" y2="733.467407" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="296.368195" y1="733.467407" x2="332.988586" y2="516.275513" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="306.140930" y1="265.315857" x2="629.987793" y2="265.315857" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="629.987793" y1="265.315857" x2="685.609375" y2="454.299561" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="685.609375" y1="454.299561" x2="250.519424" y2="454.299561" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="250.519424" y1="454.299561" x2="306.140930" y2="265.315857" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="332.988586" y1="516.275513" x2="306.140930" y2="265.315857" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="603.140137" y1="516.275513" x2="629.987793" y2="265.315857" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="639.760498" y1="733.467407" x2="685.609375" y2="454.299561" style="stroke:rgb(255,0,0);stroke-width:2" />
+ <line x1="296.368195" y1="733.467407" x2="250.519424" y2="454.299561" style="stroke:rgb(255,0,0);stroke-width:2" />
+<circle cx="332.988586" cy="516.275513" r="4" stroke="black"  fill="red" />
+<circle cx="603.140137" cy="516.275513" r="4" stroke="black"  fill="red" />
+<circle cx="639.760498" cy="733.467407" r="4" stroke="black"  fill="red" />
+<circle cx="296.368195" cy="733.467407" r="4" stroke="black"  fill="red" />
+<circle cx="306.140930" cy="265.315857" r="4" stroke="black"  fill="red" />
+<circle cx="629.987793" cy="265.315857" r="4" stroke="black"  fill="red" />
+<circle cx="685.609375" cy="454.299561" r="4" stroke="black"  fill="red" />
+<circle cx="250.519424" cy="454.299561" r="4" stroke="black"  fill="red" />
+</svg>

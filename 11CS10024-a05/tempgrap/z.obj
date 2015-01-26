@@ -1,0 +1,20 @@
+#  Viewpoint Datalabs International, Inc.  Copyright 1996
+
+
+mtllib ./vp.mtl
+
+g
+v   0  0   0
+v  10  0   0
+v   0 10   0
+v  10 10   0
+v   0  0  10
+v  10  0  10
+f  1 2 4 3
+v   0 10  10
+f  1 2 6 5
+v  10 10  10
+f  5 6 8 7
+f  2 6 8 4
+f  1 5 7 3
+f  3 4 8 7
